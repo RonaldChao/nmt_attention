@@ -131,5 +131,3 @@ dmypy.json
 # The .gitignore file itself
 .gitignore
 
-# Image folder
-Images
