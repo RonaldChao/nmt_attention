@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# The .gitignore file itself
+.gitignore
+
+# Image folder
+Images
